@@ -20,7 +20,7 @@
 		<springdoc-openapi-ui.version>1.5.0</springdoc-openapi-ui.version>
 		<jaxb-api.version>2.3.0</jaxb-api.version>
 		<activation.version>1.1.1</activation.version>
-		<wiremock-jre8.version>2.27.2</wiremock-jre8.version>
+		<wiremock-jre8.version>2.35.2</wiremock-jre8.version>
 		<httpclient.version>4.5.13</httpclient.version>
 	</properties>
 
